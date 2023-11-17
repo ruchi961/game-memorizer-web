@@ -1,7 +1,7 @@
 # game-memorizer-web
-Conatins the memorizer game implementation
+Contains the memorizer game implementation.
 
-Output:
+**Output:**
 ![image](https://github.com/ruchi961/game-memorizer-web/assets/128241982/9472c22a-0382-4c7f-8757-f1847661e912)
 
 ![image](https://github.com/ruchi961/game-memorizer-web/assets/128241982/5f364f57-434e-4d4e-84fe-e06204b4367f)
